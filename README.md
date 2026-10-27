@@ -26,3 +26,7 @@ Default login: `admin` / `admin123` — **change it** under Admin → Users righ
 - Over plain HTTP on a LAN the session cookie works as-is; set `COOKIE_SECURE=true` when serving over HTTPS.
 - Timestamps are stored in the server's local time.
 - Scripts: `npm test`, `npm run lint`, `npm run build`, `npm start`.
+
+## License
+
+[MIT](LICENSE) © 2026 Luis Ochoa
